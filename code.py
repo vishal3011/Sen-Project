@@ -1,0 +1,2 @@
+import nltk
+import pyaudio
